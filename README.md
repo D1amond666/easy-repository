@@ -7,7 +7,7 @@ Formality.
 
 User can do:
 
-Look about catalog of product.
-Added the product to basket.
-See at the basket.
-Make an order.
+1. Look about catalog of product.
+2. Added the product to basket.
+3. See at the basket.
+4. Make an order.
