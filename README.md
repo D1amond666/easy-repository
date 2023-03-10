@@ -1,6 +1,8 @@
 # easy-repository
 Repository for example. 
 
+Easy programm "the shop magazine".
+
 Formality.
 
 User can do:
