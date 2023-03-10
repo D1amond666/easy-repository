@@ -1,0 +1,8 @@
+D:\Program files\Microsoft Visual Studio2022\source\repose\GitHub\Online magazine\Magazine\bin\Debug\Magazine.exe.config
+D:\Program files\Microsoft Visual Studio2022\source\repose\GitHub\Online magazine\Magazine\bin\Debug\Magazine.exe
+D:\Program files\Microsoft Visual Studio2022\source\repose\GitHub\Online magazine\Magazine\bin\Debug\Magazine.pdb
+D:\Program files\Microsoft Visual Studio2022\source\repose\GitHub\Online magazine\Magazine\obj\Debug\Magazine.csproj.AssemblyReference.cache
+D:\Program files\Microsoft Visual Studio2022\source\repose\GitHub\Online magazine\Magazine\obj\Debug\Magazine.csproj.SuggestedBindingRedirects.cache
+D:\Program files\Microsoft Visual Studio2022\source\repose\GitHub\Online magazine\Magazine\obj\Debug\Magazine.csproj.CoreCompileInputs.cache
+D:\Program files\Microsoft Visual Studio2022\source\repose\GitHub\Online magazine\Magazine\obj\Debug\Magazine.exe
+D:\Program files\Microsoft Visual Studio2022\source\repose\GitHub\Online magazine\Magazine\obj\Debug\Magazine.pdb
